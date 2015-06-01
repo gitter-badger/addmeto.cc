@@ -1,6 +1,8 @@
 О проекте
 =========
 
+[![Join the chat at https://gitter.im/Olegas/addmeto.cc](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Olegas/addmeto.cc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Проект [Еще один линкблог](http://addmeto.cc/) это социальный эксперимент надо мной. Я завел себе привычку - не читать новостей более 1 часа в день. Результатом чтения и являются эти заметки. Надеюсь что тем, кто читает мои заметки, придется тратить чуть меньше времени на чтение. Меньше читаешь - крепче спишь :)
 
 Ну и вчера я решил что пора выложить всё это хозяйство на GitHub.
